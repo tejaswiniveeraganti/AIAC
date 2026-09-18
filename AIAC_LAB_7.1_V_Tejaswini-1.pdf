@@ -1,0 +1,426 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 4
+/Kids [ 4 0 R 12 0 R 15 0 R 17 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 5444
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 56.4 770.6898 cm
+q
+.101961 .101961 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 190.7388 0 Td (AIAC LAB 4) Tj T* -190.7388 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.4 752.6898 cm
+q
+.086275 .129412 .243137 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 19.4658 0 Td (Lab 7: Error Debugging with AI \227 Systematic approaches to finding and fixing bugs) Tj T* -19.4658 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.4 740.6898 cm
+Q
+q
+1 0 0 1 56.4 728.6898 cm
+q
+BT 1 0 0 1 0 1 Tm 12 TL /F2 11 Tf 0 0 0 rg (Name :) Tj /F1 11 Tf ( V Lakshitha) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 713.6898 cm
+q
+BT 1 0 0 1 0 1 Tm 12 TL /F2 11 Tf 0 0 0 rg (Roll No :) Tj /F1 11 Tf ( 2503A52710) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 698.6898 cm
+q
+BT 1 0 0 1 0 1 Tm 12 TL /F2 11 Tf 0 0 0 rg (Batch No :) Tj /F1 11 Tf ( 24) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 689.6898 cm
+Q
+q
+1 0 0 1 56.4 687.1898 cm
+q
+1.5 w
+1 J
+.058824 .203922 .376471 RG
+n 0 0 m 482.4756 0 l S
+Q
+Q
+q
+1 0 0 1 56.4 655.1898 cm
+q
+.058824 .203922 .376471 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (Task Description #1 \227 Syntax Errors: Missing Parentheses in Print Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 625.1898 cm
+q
+BT 1 0 0 1 10 14 Tm 12 TL /F3 10 Tf .2 .2 .2 rg (Prompt:) Tj /F4 10 Tf ( "Detect and fix the syntax error in this Python code that has a missing parenthesis in the print) Tj T* (statement.") Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 605.1898 cm
+q
+.101961 .101961 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Buggy Code:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 568.1898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 24.5 Tm /F5 8.5 Tf 11 TL (def greet\(\):) Tj T* (    print "Hello, AI Debugging Lab!") Tj T* (greet\(\)) Tj T* ET
+Q
+q
+1 0 0 1 56.4 548.1898 cm
+q
+.101961 .101961 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (AI Explanation:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 506.1898 cm
+q
+BT 1 0 0 1 0 29.5 Tm .422172 Tw 13 TL /F1 9.5 Tf 0 0 0 rg (In Python 3, ) Tj /F2 9.5 Tf (print) Tj /F1 9.5 Tf ( is a function and requires parentheses. The statement ) Tj /F5 9.5 Tf (print "Hello") Tj /F1 9.5 Tf ( is valid only in Python) Tj T* 0 Tw 2.498443 Tw (2. Python 3 raises a ) Tj /F2 9.5 Tf (SyntaxError) Tj /F1 9.5 Tf ( because the parentheses are missing. AI suggested converting it to the) Tj T* 0 Tw (function-call form ) Tj /F5 9.5 Tf (print\("Hello, AI Debugging Lab!"\)) Tj /F1 9.5 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 486.1898 cm
+q
+.101961 .101961 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Corrected Code:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 438.1898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 35.5 Tm /F5 8.5 Tf 11 TL (def greet\(\):) Tj T* (    print\("Hello, AI Debugging Lab!"\)) Tj T*  T* (greet\(\)) Tj T* ET
+Q
+q
+1 0 0 1 56.4 418.1898 cm
+q
+.101961 .101961 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Output:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 404.1898 cm
+%PreformattedPara
+0 .392157 0 rg
+BT 1 0 0 1 5 2.5 Tm /F5 8.5 Tf 11 TL (Hello, AI Debugging Lab!) Tj T* ET
+Q
+q
+1 0 0 1 56.4 384.1898 cm
+q
+.101961 .101961 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Assert Test Cases:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 259.1898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 112.5 Tm /F5 8.5 Tf 11 TL (# Test that the function runs without syntax error and produces expected side-effect) Tj T* (import io, sys) Tj T* (def test_greet\(\):) Tj T* (    captured = io.StringIO\(\)) Tj T* (    sys.stdout = captured) Tj T* (    greet\(\)) Tj T* (    sys.stdout = sys.__stdout__) Tj T* (    assert captured.getvalue\(\).strip\(\) == "Hello, AI Debugging Lab!") Tj T* (    print\("All 3 conceptual checks passed \(syntax, execution, output match\)"\)) Tj T*  T* (test_greet\(\)) Tj T* ET
+Q
+q
+1 0 0 1 56.4 243.1898 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 3 Tm /F4 9 Tf 12 TL (All assert checks passed successfully.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 211.1898 cm
+q
+.058824 .203922 .376471 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (Task Description #2 \227 Incorrect Condition in an If Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 193.1898 cm
+q
+BT 1 0 0 1 10 2 Tm 12 TL /F3 10 Tf .2 .2 .2 rg (Prompt:) Tj /F4 10 Tf ( "Explain why using a single '=' inside an if condition is a bug and fix it.") Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 173.1898 cm
+q
+.101961 .101961 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Buggy Code:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 114.1898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 5 46.5 Tm /F5 8.5 Tf 11 TL (def check_number\(n\):) Tj T* (    if n = 10:) Tj T* (        return "Ten") Tj T* (    else:) Tj T* (        return "Not Ten") Tj T* ET
+Q
+q
+1 0 0 1 56.4 94.18976 cm
+q
+.101961 .101961 .180392 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (AI Explanation:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.4 52.18976 cm
+q
+BT 1 0 0 1 0 29.5 Tm 1.490173 Tw 13 TL /F1 9.5 Tf 0 0 0 rg (The operator ) Tj /F5 9.5 Tf (=) Tj /F1 9.5 Tf ( is assignment, not comparison. Inside an ) Tj /F5 9.5 Tf (if) Tj /F1 9.5 Tf ( statement Python expects a Boolean expression.) Tj T* 0 Tw .654256 Tw (Using assignment is a ) Tj /F2 9.5 Tf (SyntaxError) Tj /F1 9.5 Tf ( in Python \(it was allowed in some other languages\). The correct comparison) Tj T* 0 Tw .780452 Tw (operator is ) Tj /F5 9.5 Tf (==) Tj /F1 9.5 Tf (. AI also noted that even if the language allowed assignment, it would mutate the variable and the) Tj T* 0 Tw ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+94 724.8898 95 17 re
+f*
+n
+102 709.8898 85 17 re
+f*
+0 0 0 rg
+BT
+/F1-0 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 96.132 729.4128 Tm
+(V Tejaswini) Tj
+T*
+ET
+BT
+1 0 0 1 104.679 714.4128 Tm
+(2503A52696) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1565
+>>
+stream
+Gau`S?#SIU'Re<2\8\Z@)%p*0Oot>"D.>E<[UcFi^).,hM6aM0Udn=(]V>FSQ^$mYNo_O'JD#Jo:m^8%iApX=]AVW%24s+Ai;ErX6Piu<7QIu0*Pgl?\/HCdIH7OT_[$M-G[O%`+Mg)5#Ud0PFaQ9(d0s8ecdZ_>oK[;c4!:D.V4;+n.QN+bYH&(&[3/*K'+.@]W`VU5"Ye6Is.t=b5GY<Y4G-("V?N1s#ZQ1TVD,!Ip*kt"K$c4ii?.jO72`O2g90HG+r;<8'?;2>#\j/9Sqc,EHJgi="A^,XqS7fXWM18Xi#04QAn/m7D#DbaTQm+I;)nB;#]d:aU:kCL6.?It+,5k6Pe!sM3hn^2"\nIS=?W-M0t,a0FG%@1I$H]GGkV[kDia4NTW/b9H6^RY>7YEoBm9@@>X<^o3U+gLUVuD[JRPhBmZG]\.fem58h0J!;S`S^WJ$o&VH3:l4[XDRH`ndN&%fn0%?,/<?"\Pbl.tK@DeQY<gneq=[*oaQ(F<!iX*7]Hi59<4dbLXQS%0T_HK3J,fAjjURB_m$2iRM#j)raj(sa?Z@1p#nk_)Oe"^l[\!$4I`UEF`PQndB`d5NHdK47704aa%\($43rP%,TRSeo;:2,iUq_Nb[;>emSF-tmLR]Ooi*)21r#?d%ktR/OF[^"&`Un#bNSq+@Xb@B^*DT_BD9a1PGLa:ZV+THl&@'_7]h#.Pp=KujruB#^*<T$rIZc4q%HAX+=SDp3Ja14GgQP2b[<AlMAXV0;<q1Bm<<-,B9JFLlikndCWANK]uHm8!73[e(pl1V0%U(SrU3cRF2L3J.ubK)Qr,o$0(YgNrCpok:/0rE:07YTV>K;C]hRXWA0[n$)V>.![W:0<a@"@9sO8ZtQ&khhsOZnt;]0Z\'Z`A$jbF:ndkd:hI)8LmV(O,RbP\]/0)D@H.bsOq60nXl^C"jL!LG5`en,MU_fIo0D%E?#!&JSGREnfHMI(8QoPo!M73RB+m6g[G_L"4g,T^2(ahKQL4P-+H#gk<m+O-MPp42:lBqcETVjK"dqY+Lb,L3!P-3:cY#%U)HQa"W3jo0Hid2U6>LV*JOkKtjLD;D6=F0WT][i"qh>:T`_%gTSCpH[=<,bH'!\l&PRM\(14@N,.V1Af^'6l$3[';$Ko+'9*n,DnR5QI4UAq,#o&A916*BDN?n/t8IVSUYkD+[MU1p5<5s<UaGHU2<bL4Ma23;`(`_X-O_1l/nJtu,5YULPQb\.1k#@pG!B(u"M\X&R(979*2/7/Zp$\rH"Zh4Z<"rB!"p@!2u`N5::7K(*Z*[a3B=c#2fc$gVLrf+)3k0_f2h6h.o\R\NH^7I8eV8f]$9l!^HFobt7[tB+2(VX0^CDtpQ.@s;!r5DC4lUS.fNoP:ck8<f!,<M*sjbCO907(4#]5+"-$?l]f7;o@qEdJs%V5rT'>#cP_m!bCg9lksaZoZZa`H6=)FtkjqNj2&2J;mgdo[%?.9(QdThhGp$5:+J]>?+ZC>-2-iJUJQk2qiaQ]cWX!RW7s?c$%HVD-cLGi,9p+*?)XBX6a2=5:&P$JY<X8rWAktLP#~>
+endstream
+endobj
+14 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1709
+>>
+stream
+Gau`SD/\/e&H88.EH&0K=YnUXM_1jJLGVYS!pQ#Erb.s4,hh3(;'&<JahQ_qU1DI<9/<<D*B:KL4Pi5Fp[AcG+hig39FHAH;tt<!J-7Qs",Zp]VRLM-4o+8o36QQ"(WYRW+!m*RfAJ61(ahldJKG<<8J$CoN^qKaJ6\V;5LOE]_mD]'!Kb[>:Q0@59%Dhg)cN`s9?g*1min,&_&0=gSo_.:$GVqefBXfe1_UeA0`=g[V_J&WVSAMNrl"PSI*lPR)aP&5LeJX4_cmNr1m]m55B)*m!T'@uMkrVHH[N>[S;@K'klZRTmLP`HO)3t':4Xod0iXITIAK5o)DX56!e4]8Bhjr1<2>R8VEA@mH9_^/JhDUd)<eKO;Dq['klVY.AoAUFBBG\63Ie%^Po9/u7j&'u,pG]3)%g!N:J@m:,mr?=fp$9:]MI'enI/L/lhTL68+CoSTC*toQa38fZg<]EH8;k)h(<,ma1c>J(_ZET[j?4P(;"`k&+G;:K$mW`RAX.NT:L.DS!RZsOobit[Ph]"$^W_%T"h+Hn%s<.7;P+<,o>dT^@/O"`\IY/lP=oDdN);q0aZa?&=9$JqIu?r6-Z2F.7QE+Fq4V"T@B5AT9(0:iC'd6:u9pjT@?kSaou*5M#o0S1q.7(8\&:;goLY'@dd31a`/HU[?Ri!2gfs9DHXh$c$<pT)Efc1i9)fc#f=4(s.Hl6G%*jVLX@s#%rLf")3;f-aF*_eA2DR!)Rm>i[W1usN+[<[L@^19!`Rl`RBsblNL`hIPf_dmm5]$Q@RlTR=@t+*'!^h/i"Y8[8IbR_bV4PN[Z_-.[8?cbB<U!h#nJ!(#$jj='.+;Z:6g*9\WmM4/ln3'Bh:1V^6I^laf(4O@u;pmJ#'3d_41,h<@K4eEB5\^+SpnLBrqm))[!f9U*rcCbrQ^0&"oK5O"96`r*V[I28\mU(p*-"QZ1_')N2IC0:Qc!W(i!?2[4;T;G:hm18Q^Q6Q\P1+-g/5qFII#amdiG%c_tkVKEa18AW9amLjCh=<@alJfV76eo5G=oI!Pf!.ST2f;m'P''V"O[nI`s;@Cn#>fm8+Wt`S46%F>6!K"iY?p_E.#GqqYg0hPG[[.NFIPC8AHq-UCf8=VF]W@0hF83VE%)[J36V8noji,P4ZNZO"\:@65A[D#J3sHAh?"E)Wds5fCpkrl8e$R!]<^mES#7":!ejjdn%S'jghuih)1hotL.GM)A3X:Wcf-6F4K@I&HDUMFYGV7MBig@Xm`oR/dQpG]$_d>n7L5Z_eDf\"_-q>bq9ur?Rm6,\)EJK8(d&pX_aDc*W9!P@FN$9Op?4N$J)BqBiBQ6]WhEBo8/0HHG/V?opPq1Up4iR!+Y>gJ?TGkH=T'7!-B&961qMN\/C!RFNmob)BY4q50G,Ft(;UeAgO0ImQb;_PUOuZCnd:`eeKQW6upMKZ_#-4?tZI$\:fV@OuKZf?\X_ch__M[Z7SXHo,g@qZh.:BX24Achene@9a<N]u4+.]S%JPjnR<ap^jPAjubBSR((OA;!jaf!6tG;a\ek/Fqf0kF\[CIFk.:V*9GRgp4Vm=c&q=XSN[<!=#*V[CSW%;B.*e/e[C(-C6VRG<62bEA>"JC8aX&8eB<Ldi^Wnn&R7[F+E<`nP[hQ)!ab1(]p2<7/`tEikMFUUPM.IlVRf2X\`pe37f7f!oW83\,!5m'dq@rm3:c5QiJ7!o*8]!r~>
+endstream
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 820
+>>
+stream
+Gat$u?#SFN'Rf.G*&2:;)pR@FLG5\<D!IllPLb^U,#rMiBXW:BgF;7AmlCJ9Tl_ar+8.k3551SjAannlc"BoS+(Mt`beSVE$a>aT6Mqj*EURh,D36rVc#MgT@5Ni)%#%sKYt<$`I7ITtnY)73b/a3W:sssDqd<`ohRCUt=d@ScX%E`FI6YZoW2s7`;cP0]aAU[CLB6DlLu2Ac5Nt2*j0Ln>f@NVI.THaaA9ohlk]mX00c?!Kkjk#M7q@)^+k@2sjT6W#D\h$>][93nSU6LNE^&-^E'Q'&9s%#-!q<?uo(cYuD;ZqEaNU3q8c-`tcNeOtGQh:?r]^:Epg=JInNdCu1c\UT@g<4/]$P3LH#_\-3)crU15Mbbpa!5rR!5D^iq*F>C9sqbIp<>+n7%^cIa07eZJ'$"dhA(7@!o0=#qBU3d<S-0Q\HUZd@]P]!c1XLX%1V%Z*ISJ^N9?&91"\(>J<aV1Hp8M#R?W<'m4lLo6lWMO#jSE_/XSD>RYCoJ*XWdO!9&Vf=.=2;a'/[1hQOUV,oRQ$]H:e*K>>8M]B($H@uOdqf^Df&@e6chLl#6K*AkFT!Z)q\qn?u>nfVBg7GZ-D2W@@<O#TB#lR8'/X8_%'rtT&)5ss65'iu`,^Zg"e#sQ5=/KggQ+-F,8H9R59khP`&:(\-Os*e1R]MUgSZ&-VGN$*(2eJ1j(XCOWA@nt']Mbb-&7p`DZeDQ1n!6S38kQM4A3,Bk=QL_Wl"5iK.]$ZB4Bu-JjGo+B^fkF,9@_t*cHI;^5qW=dD=3XQO8(]4X[#r<.<6o!9%=6m>Er4B4o-P$pCAm3U1F~>
+endstream
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000134 00000 n 
+0000000183 00000 n 
+0000000458 00000 n 
+0000005954 00000 n 
+0000006061 00000 n 
+0000006168 00000 n 
+0000006280 00000 n 
+0000006399 00000 n 
+0000006515 00000 n 
+0000006621 00000 n 
+0000006823 00000 n 
+0000008481 00000 n 
+0000008555 00000 n 
+0000008757 00000 n 
+0000010559 00000 n 
+0000010761 00000 n 
+trailer
+<<
+/Size 19
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+11673
+%%EOF
